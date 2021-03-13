@@ -1,0 +1,6 @@
+[submodule "NewWisdom.github.io"]
+	path = NewWisdom.github.io
+	url = https://github.com/NewWisdom/NewWisdom.github.io.git
+[submodule "output"]
+	path = output
+	url = https://github.com/NewWisdom/NewWisdom.github.io.git
