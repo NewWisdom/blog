@@ -1,3 +1,0 @@
-# NewWisdom.github.io
-
-삽질중..........
