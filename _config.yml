@@ -11,10 +11,10 @@ name: 'Finding The Way Home'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
 short_url: 'newwisdom.github.io/'
-google_analytics: UA-69281367-1
-disqus: username
+google_analytics: G-VDMM24720W
+disqus: newwisdom
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: https://newwisdom.github.io/
 
 # Permalinks
 permalink: /:title
@@ -45,13 +45,13 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: newwisdom
-repo: jasper
-branch: master
-relative_source: ../jasper/
+username: NewWisdom
+repo: NewWisdom.github.io
+branch: main
+relative_source: 
 destination: ../jasper-pages/
-production_url:  https://jekyller.github.io/jasper/
-source_url:  https://github.com/jekyller/jasper/
+production_url: https://newwisdom.github.io/
+source_url: https://github.com/NewWisdom/NewWisdom.github.io/
 
 exclude:
   - README.md
